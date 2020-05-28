@@ -1,0 +1,5 @@
+The issue I am solving in this project is a binary classification problem. Using training data images of two types, 
+aerial shots including rivers and aerial shots not including rivers, I trained a classifier to distinguish between “river” and 
+“non-river” input test images. HOG Feature extraction was used in combination with an SVM classifier. The different parameters that 
+can be tuned to alter the efficiency of the predictions were examined. The code for the project as well as the data and report are included
+in the repository.
